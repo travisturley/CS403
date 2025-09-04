@@ -42,7 +42,6 @@ class Solution // using recursion
 
         // else, recursion for the left/right sub-trees.
         search(node.left, path, answer);
-        
         search(node.right, path, answer);
     }
 }
