@@ -36,6 +36,7 @@ class Solution
                     {
                         right--; // skip duplicate ints[right]
                     }
+                    
                     // move pointers in
                     left++;
                     right--;
