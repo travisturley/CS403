@@ -1,3 +1,6 @@
+/*
+    Happy Number (LeetCode #202)
+*/
 public class Solution
 {
     public boolean isHappy(int n) // check if number is happy
